@@ -1,7 +1,12 @@
 # Code Fights - Arcade - Problem 
 
-def 
-  
-end
 
 
+Input
+- 
+
+Output
+- 
+
+Approach
+- 

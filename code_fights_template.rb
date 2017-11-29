@@ -1,4 +1,4 @@
-# Code Fights - Arcade - Problem 
+# Code Fights - The Core - Problem 
 
 
 

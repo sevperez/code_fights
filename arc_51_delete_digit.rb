@@ -22,6 +22,9 @@ p deleteDigit(152)    # => 52
 p deleteDigit(1001)   # => 101
 p deleteDigit(10)     # => 1
 p deleteDigit(222219) # => 22229
+p deleteDigit(7891252111)
+p deleteDigit(121101) # 21111
+p deleteDigit(91252181)
 
 # Input
 # - A positive integer (n)
@@ -37,3 +40,14 @@ p deleteDigit(222219) # => 22229
 #   - On each iteration, delete the idx'th digit from n
 #   - If the result is bigger than the stored biggest result, replace it
 # - Return the stored result
+
+# Question
+# Given some integer, find the maximal number you can obtain by deleting exactly 
+# one digit of the given number.
+
+# Example
+
+# For n = 152, the output should be
+# deleteDigit(n) = 52;
+# For n = 1001, the output should be
+# deleteDigit(n) = 101
